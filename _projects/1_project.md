@@ -5,7 +5,7 @@ description: a dataset of jazz piano performances for MIR and generative music t
 img: 
 importance: 1
 category: work
-related_publications: , 
+related_publications: rowJAZZVARDatasetVariations2023
 ---
 
 Every project has a beautiful feature showcase page.
