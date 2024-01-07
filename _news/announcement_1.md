@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Today I presented our JAZZVAR paper at CMMR 2023 in Tokyo!  :cherry_blossom: :smile:
+
