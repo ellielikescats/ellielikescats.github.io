@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Eleanor
 middle_name: R.V.
 last_name: Row
-email: e.r.row@qmul.ac.uk
+email: e.r.v.row@qmul.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Researcher at C4DM, Queen Mary University of London. Classical pianist and violinist.
 footer_text: 
@@ -102,7 +102,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you'd like to get in touch, please reach out to me via email or follow my twitter for any updates.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -176,7 +176,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -279,7 +279,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: my_publications.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
