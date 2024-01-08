@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher in AI and Music, London, UK. <a href='#'>Affiliations</a>. 
+subtitle: PhD Researcher in AI and Music, classical musician and composer, London, UK. 
 
 profile:
   align: right
-  #image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   #more_info: >
     #<p>555 your office number</p>
     #<p>123 your address street</p>
@@ -18,6 +18,13 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Hello! I am a PhD student working with Dr. George Fazekas within the Centre for Digital Music (C4DM) at Queen Mary University of London. I research the applications of machine learning in music and audio with a focus on music generation.
+
+Currently, my research centres around the implementation of deep learning models for tasks in music composition, such as music inpainting, overpainting and style transfer.
+
+As a composer and musician, my research is entwined with my love of music. I am developing AI tools to extend and enhance creativity in music composition and production, in collaboration with a group of professional composers from diverse backgrounds around the world.
+
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
