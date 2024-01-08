@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: JAZZVAR Paper accepted to CMMR2023 @ Tokyo, Japan!
+date: 18-06-2023 07:59:00-0400
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-Today I presented our JAZZVAR paper at CMMR 2023 in Tokyo!  :cherry_blossom: :smile:
-
+Happy to announce that my paper **JAZZVAR: A Dataset of Variations found within Solo Piano Performances of Jazz Standards for Music Overpainting** got accepted to CMMR2023!  :sparkles: :smile:

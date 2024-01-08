@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Migratory Birds
+description: A song cycle for voice, flute and piano.
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 1
+category: compositions
 giscus_comments: true
 ---
 
