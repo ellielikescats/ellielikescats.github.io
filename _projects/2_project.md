@@ -5,7 +5,6 @@ description: A song cycle for voice, flute and piano.
 img: assets/img/starlings-2.jpeg
 importance: 1
 category: compositions
-giscus_comments: true
 ---
 Migratory birds is a song cycle composed for Coloratura Voice, Flute and Piano. 
 Written during the COVID-19 pandemic, I was inspired by the silence that blanketed the nation. While we limited our movements and use of cars and other forms of transport, the sounds of the natural world suddenly burst into vibrancy. 
