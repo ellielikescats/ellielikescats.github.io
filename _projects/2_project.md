@@ -8,11 +8,27 @@ category: compositions
 giscus_comments: true
 ---
 
-<object data="/assets/pdf/Migratory Birds Song Cycle.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/Migratory Birds Song Cycle.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Migratory Birds Song Cycle.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<style>
+    .pdf-container {
+        width: 80vw; /* Adjusts the width to be 80% of the viewport width */
+        height: 80vh; /* Adjusts the height to be 80% of the viewport height */
+        max-width: 100%; /* Ensures the width does not exceed the screen size */
+        overflow: hidden; /* Hides any overflow */
+    }
+    object, embed {
+        width: 100%; /* Makes the object/embed take full width of the container */
+        height: 100%; /* Makes the object/embed take full height of the container */
+    }
+</style>
+
+<div class="pdf-container">
+    <object data="http://ellielikescats.github.io/assets/pdf/Migratory_Birds_Song_Cycle.pdf" type="application/pdf">
+        <embed src="http://ellielikescats.github.io/assets/pdf/Migratory_Birds_Song_Cycle.pdf">
+            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://ellielikescats.github.io/assets/pdf/Migratory_Birds_Song_Cycle.pdf">Download PDF</a>.</p>
+        </embed>
+    </object>
+</div>
+
 
 
 Every project has a beautiful feature showcase page.
