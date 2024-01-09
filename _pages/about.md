@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD researcher working with Dr. George Fazekas within the Centre for Digital Music (C4DM) at Queen Mary University of London. I research the applications of machine learning in music and audio with a focus on music generation.
+I am a PhD researcher supervised by Dr. George Fazekas and Prof. Simon Dixon within the Centre for Digital Music (C4DM) at Queen Mary University of London. I research the applications of machine learning in music and audio with a focus on music generation.
 
 Currently, my research centres around the implementation of deep learning models for tasks in music composition, such as music inpainting, overpainting and style transfer.
 
