@@ -22,9 +22,9 @@ giscus_comments: true
 </style>
 
 <div class="pdf-container">
-    <object data="http://ellielikescats.github.io/assets/pdf/Migratory_Birds_Song_Cycle.pdf" type="application/pdf">
-        <embed src="http://ellielikescats.github.io/assets/pdf/Migratory_Birds_Song_Cycle.pdf">
-            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://ellielikescats.github.io/assets/pdf/Migratory_Birds_Song_Cycle.pdf">Download PDF</a>.</p>
+    <object data="{{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf" type="application/pdf">
+        <embed src="{{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf">
+            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf">Download PDF</a>.</p>
         </embed>
     </object>
 </div>
