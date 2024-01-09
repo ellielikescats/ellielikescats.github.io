@@ -8,6 +8,13 @@ category: compositions
 giscus_comments: true
 ---
 
+<object data="/Users/eleanorrow/Personal_Website/ellielikescats.github.io/assets/pdf/Migratory Birds Song Cycle.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/Users/eleanorrow/Personal_Website/ellielikescats.github.io/assets/pdf/Migratory Birds Song Cycle.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Users/eleanorrow/Personal_Website/ellielikescats.github.io/assets/pdf/Migratory Birds Song Cycle.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
