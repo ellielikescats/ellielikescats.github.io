@@ -4,6 +4,7 @@ permalink: /publications/
 title: publications
 description: list of my publications in reversed chronological order
 nav_order: 2
+preview: pipeline.png
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
