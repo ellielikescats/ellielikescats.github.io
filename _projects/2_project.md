@@ -37,6 +37,16 @@ Before the pandemic, I had the pleasure of listening to my friend, Jean-Clara Ca
 
 I chose the instrumentation of a Coloratura soprano, flute and piano, as I knew that I wanted the instruments to be able to create very high sounds whilst also staying grounded, with a full tone. The flute seemed like an obvious addition to the voice and piano as it was able to create breathy tones, and also provide support when mimic birdsong. Unlike the Rimsky-Korsakov piece, which was for voice and piano only, the use of the flute enabled me to open up the space in which I could create birdsong. I didn’t just want one bird singing, I wanted to hear a whole chorus of birds! Much like the ones I heard when sitting and listening to them in the garden.
 
+{% raw %}
+```html
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+```
+{% endraw %}
+
 There are many melodies and rhythms within Migratory Birds that are inspired by birdsong. Even the first bar of the Migratory Birds song cycle contains a coal-tit’s birdsong melody and rhythm. Whilst this has been hinted at throughout the first song *How far does the swallow go?* And also through most of *Metamorphosis*, it is not until final section of *Metamorphosis*
 that the listeners are drawn to this revelation by the singer that these rhythms in the distance are actually birdsong (using the song of the coal-tit, and woodpecker pecking). This is again made more obvious at the end of the third song *Nostos*.
 

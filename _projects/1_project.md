@@ -4,7 +4,7 @@ title: Music overpainting with JAZZVAR dataset
 description: a dataset of jazz piano performances for MIR and generative music tasks
 img: assets/img/3.jpg
 importance: 1
-category: AI and Music
+category: AI and music
 related_publications: rowJAZZVARDatasetVariations2023
 ---
 
