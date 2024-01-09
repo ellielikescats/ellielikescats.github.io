@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the projects I have worked on recently.
+description: some of the projects I have worked on recently
 nav: true
 nav_order: 3
 display_categories: [AI and music, selected compositions]
