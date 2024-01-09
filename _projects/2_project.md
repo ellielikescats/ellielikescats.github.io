@@ -8,9 +8,9 @@ category: compositions
 giscus_comments: true
 ---
 
-<object data="/Users/eleanorrow/Personal_Website/ellielikescats.github.io/assets/pdf/Migratory Birds Song Cycle.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/Users/eleanorrow/Personal_Website/ellielikescats.github.io/assets/pdf/Migratory Birds Song Cycle.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Users/eleanorrow/Personal_Website/ellielikescats.github.io/assets/pdf/Migratory Birds Song Cycle.pdf">Download PDF</a>.</p>
+<object data="/assets/pdf/Migratory Birds Song Cycle.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/Migratory Birds Song Cycle.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Migratory Birds Song Cycle.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
