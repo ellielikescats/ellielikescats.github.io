@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: composition
 title: Migratory Birds
 description: A song cycle for voice, flute and piano.
 img: assets/img/starlings-2.jpeg
 importance: 1
 category: compositions
+pdf: {{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf
 ---
 Migratory birds is a song cycle composed for Coloratura Voice, Flute and Piano. 
 Written during the COVID-19 pandemic, I was inspired by the silence that blanketed the nation. While we limited our movements and use of cars and other forms of transport, the sounds of the natural world suddenly burst into vibrancy. 
@@ -31,9 +32,6 @@ Due to a personal illness, I was made to self-isolate for six months. Within the
         </embed>
     </object>
 </div>
-
-Click here to download the PDF <p><a href="{{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf">Download PDF</a></p>
-
 
 Before the pandemic, I had the pleasure of listening to my friend, Jean-Clara Cartwright sing Rimsky-Korsakov's *The nightingale enslaved by the rose*. The song was about a nightingale, and the singer’s voice would reach incredibly high notes to try to mimic the nightingale’s birdsong. *The nightingale enslaved by the rose* inspired me to write my composition as a song cycle which featured birdsong.
 
