@@ -193,8 +193,8 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
           {%- endif %}
           {%- if entry.audio %}
-          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Listening Examples</a>
-        {%- endif %}
+            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Listening Examples</a>
+          {%- endif %}
           </div>
           {% if site.enable_publication_badges %}
           {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
