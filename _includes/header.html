@@ -52,6 +52,15 @@
                 </a>
               </li>
 
+              <li class="nav-item {% if page.url contains '/publications/' %}active{% endif %}">
+                <a class="nav-link" href="https://ellielikescats.github.io/publications/">Publications
+                  {%- if page.url contains '/publications/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              
+
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
