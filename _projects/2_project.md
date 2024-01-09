@@ -5,8 +5,39 @@ description: A song cycle for voice, flute and piano.
 img: assets/img/3.jpg
 importance: 1
 category: compositions
-giscus_comments: false
+giscus_comments: true
 ---
+
+---
+layout: page
+title: Migratory Birds
+description: A song cycle for voice, flute and piano.
+img: assets/img/3.jpg
+importance: 1
+category: compositions
+giscus_comments: true
+---
+
+<style>
+    .pdf-container {
+        width: 80vw; /* Adjusts the width to be 80% of the viewport width */
+        height: 80vh; /* Adjusts the height to be 80% of the viewport height */
+        max-width: 100%; /* Ensures the width does not exceed the screen size */
+        overflow: hidden; /* Hides any overflow */
+    }
+    object, embed {
+        width: 100%; /* Makes the object/embed take full width of the container */
+        height: 100%; /* Makes the object/embed take full height of the container */
+    }
+</style>
+
+<div class="pdf-container">
+    <object data="{{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf" type="application/pdf">
+        <embed src="{{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf">
+            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/assets/pdf/Migratory_Birds_Song_Cycle.pdf">Download PDF</a>.</p>
+        </embed>
+    </object>
+</div>
 
 
 
