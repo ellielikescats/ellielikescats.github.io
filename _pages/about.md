@@ -19,11 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD student working with Dr. George Fazekas within the Centre for Digital Music (C4DM) at Queen Mary University of London. I research the applications of machine learning in music and audio with a focus on music generation.
+I am a PhD researcher working with Dr. George Fazekas within the Centre for Digital Music (C4DM) at Queen Mary University of London. I research the applications of machine learning in music and audio with a focus on music generation.
 
 Currently, my research centres around the implementation of deep learning models for tasks in music composition, such as music inpainting, overpainting and style transfer.
 
 As a composer and musician, my research is entwined with my love of music. I am developing AI tools to extend and enhance creativity in music composition and production, in collaboration with a group of professional composers from diverse backgrounds around the world.
+
+:envelope: Feel free to send me a message at [e.r.v.row@qmul.ac.uk](mailto:e.r.v.row@qmul.ac.uk). 
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
