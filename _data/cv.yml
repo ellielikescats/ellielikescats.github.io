@@ -13,12 +13,14 @@
       institution: Queen Mary University of London, London, United Kingdom
       year: 2020-present
       description:
-        - Description 1.
-        - Description 2.
+        - 4th year PhD student in Artificial Intelligence and Music at C4DM, Queen Mary University of London.
+        - PhD topic - using generative music models for creating variations (music overpainting) in music for an AI music composition tool.
         - title: Machine Learning (Python), Deep Learning for Audio and Music (Pytorch), Music Informatics, Music and Audio Programming (C++),
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Created a dataset and trained several transformer models for the music overpainting task.
+            - Researching composer interactions with generative music models integrated into GUIs
+            - Working with professional composers to design a music composition tool which works for composers
+            - Conducted a Design Ethnography study on music composing culture post COVID-19. 
     - title: Bachelor of Arts (Music)
       institution: The University of Nottingham, Nottingham, United Kingdom
       year: 2016-2020
