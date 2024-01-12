@@ -15,7 +15,7 @@
       description:
         - Description 1.
         - Description 2.
-        - title: Modules undertaken
+        - title: Machine Learning (Python), Deep Learning for Audio and Music (Pytorch), Music Informatics, Music and Audio Programming (C++),
           contents:
             - Sub-description 1.
             - Sub-description 2.
@@ -24,48 +24,43 @@
       year: 2016-2020
       description:
         - Specialised in Piano Performance, and composition. 
-        - Year abroad at the University of Hong Kong.
+        - Year abroad at the Faculty of Arts, University of Hong Kong.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Teaching Fellow
+    - title: Teaching Fellow in Electrical Engineering and Computer Science
       institution: Queen Mary University of London, London, United Kingdom
       year: 2023-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Supervising Undergraduate and Masters students in the Dept. of Electrical Engineering and Computer Science.
+        - title: User Experience Design Module, spring semester 2024
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Leading all the Tutorial and Lab sessions
+            - Training demonstrators and TAs for marking coursework and exams 
+            - Guest lecturer in Ethnography and AI co-creativity
     - title: Senior Demonstrator
       institution: Queen Mary University of London, London, United Kingdom
       year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
+        - Co-lead tutorials for Professional Research Practice and User Experience Design
+        - Trained demonstrators for marking coursework
+        - Demonstrator and marker in Research Methods and Responsible Innovation module
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/ellielikescats/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Generative Music
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Interests include the use of generative music models as creativity support tools.
+        - Contrastive Learning techniques for music generation.
+    - title: User Experience Design
       items:
-        - Description 1.
-        - Description 2.
+        - Design Ethnography and Participatory Design
+        - Approaches for evaluating generative music models, and evaluating generative music tools.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Table Tennis, Singing Jazz, Playing the Violin.
