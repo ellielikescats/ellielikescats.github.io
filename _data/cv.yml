@@ -2,9 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Eleanor Roxanne Victoria Row 
+      value: Eleanor R. V. Row 
+    - name: Current Position
+      value: PhD student and Teaching Fellow at Queen Mary University of London.
+    -name: Location
+      value: London, UK
     - name: Languages
       value: English
+    - name: Technical Skills
+      value: Python, Pytorch, C++, Music Information Retrieval, UX and UI Design
+    -name: Availability
+      value: Open to collaborative opportunities!
 
 - title: Education
   type: time_table
@@ -36,11 +44,19 @@
       year: 2023-present
       description:
         - Supervising Undergraduate and Masters students in the Dept. of Electrical Engineering and Computer Science.
-        - title: User Experience Design Module, spring semester 2024
+        - title: User Experience Design, spring semester 2024
           contents:
-            - Leading all the Tutorial and Lab sessions
-            - Training demonstrators and TAs for marking coursework and exams 
-            - Guest lecturer in Ethnography and AI co-creativity
+            - Module for third year undergraduate and MSc EECs students.
+            - Lead all the Tutorial and Lab sessions.
+            - Topics covered included Activity Theory, Distributed Cognition and Ethnography.
+            - Trained demonstrators and TAs for marking coursework and exams.
+        - title: Professional Research and Practice, autumn semester 2024
+          contents:
+            - Module for first year undergraduate EECs students. 
+            - In 2024, we had 400+ students.
+            - Delivered training to 25+ demonstrators and TAs across module to foster student support.
+            - Coordinated demonstrator training, marking and assignments. 
+      
     - title: Senior Demonstrator
       institution: Queen Mary University of London, London, United Kingdom
       year: 2021-2023
@@ -53,16 +69,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Generative Music
+    - title: Generative Music and Deep Learning
       items: 
-        - Interests include the use of generative music models as creativity support tools.
-        - Contrastive Learning techniques for music generation.
+        - Interests include the use of deep learning generative music models as creativity support tools. Often called GenAI tools.
+        - Recent interests include contrastive learning techniques for music generation.
     - title: User Experience Design
       items:
         - Design Ethnography and Participatory Design
-        - Approaches for evaluating generative music models, and evaluating generative music tools.
+        - Approaches for evaluating generative music models, and evaluating generative music tools with stakeholder/end-user involvement.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Table Tennis, Singing Jazz, Playing the Violin.
+    - <u>Hobbies:</u> playing the piano & violin, table tennis and badminton, singing jazz, being in nature.
